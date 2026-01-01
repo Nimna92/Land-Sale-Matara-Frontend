@@ -1,0 +1,145 @@
+{
+  "nav": {
+    "home": "Home",
+    "featured": "Featured",
+    "about": "About Us",
+    "contact": "Contact Agent",
+    "apartments": "Apartments",
+    "houses": "Houses",
+    "lands": "Lands"
+  },
+  "hero": {
+    "heading": "Find Your Place in",
+    "matara": "Matara",
+    "subheading": "The Southern Province's most trusted real estate partner.",
+    "category": "Select a category below to start browsing."
+  },
+  "buttons": {
+    "lands": "LANDS",
+    "houses": "HOUSES",
+    "apartments": "APARTMENTS"
+  },
+  "filter": {
+    "hint": "Select your preferences from the filters below",
+    "locationPlaceholder": "Any Location in Matara",
+    "pricePlaceholder": "Price Range",
+    "sizePlaceholder": "Land Size (Perches)",
+    "locations": {
+      "mataraTown": "Matara Town",
+      "weligama": "Weligama",
+      "mirissa": "Mirissa",
+      "dikwella": "Dikwella",
+      "kamburugamuwa": "Kamburugamuwa",
+      "hakmana": "Hakmana",
+      "akuressa": "Akuressa",
+      "devinuwara": "Devinuwara",
+      "gandara": "Gandara"
+    },
+    "prices": {
+      "low": "Under 50 Lakhs",
+      "mid": "50 - 100 Lakhs",
+      "high": "1 - 2 Crores",
+      "premium": "2 Crores+"
+    },
+    "sizes": {
+      "small": "Under 10 Perches",
+      "medium": "10 - 20 Perches",
+      "large": "20 - 40 Perches",
+      "xlarge": "40+ Perches"
+    }
+  },
+  "land": {
+    "heading": "Find Your Perfect Land",
+    "subheading": "Discover premium land plots in Matara and surrounding areas. Build your dream home or investment property on the perfect piece of land.",
+    "showing": "Showing {{count}} properties"
+  },
+  "apartment": {
+    "heading": "Find Your Perfect Apartment",
+    "subheading": "Explore modern apartments with premium amenities in prime locations across Matara. Your ideal urban living space awaits.",
+    "showing": "Showing {{count}} properties"
+  },
+  "house": {
+    "heading": "Find Your Perfect House",
+    "subheading": "Browse beautiful houses with all modern amenities in the best neighborhoods of Matara. Discover your dream home today.",
+    "showing": "Showing {{count}} properties"
+  },
+  "about": {
+    "hero": {
+      "title": "Building Dreams, One Plot at a Time",
+      "subtitle": "We are Sri Lanka's most trusted partner for buying and selling land, houses, and apartments. Transparency and integrity are at the heart of everything we do."
+    },
+    "stats": {
+      "propertiesSold": "Properties Sold",
+      "happyClients": "Happy Clients",
+      "yearsExperience": "Years Experience",
+      "citiesCovered": "Cities Covered"
+    },
+    "story": {
+      "kicker": "Our Story",
+      "heading": "Helping You Find Your Place in the World",
+      "body1": "Founded in 2020, PropertySale began with a simple mission, to remove the hassle and uncertainty from the Sri Lankan real estate market. We noticed that buyers struggled with unclear paperwork and hidden prices.",
+      "body2": "Today, we combine modern technology with deep local market knowledge to provide a seamless experience for buyers, sellers, and investors alike."
+    },
+    "why": {
+      "heading": "Why Choose LanSaleMatara?",
+      "subheading": "We do things differently to ensure your peace of mind.",
+      "cards": {
+        "verified": {
+          "title": "Verified Listings",
+          "desc": "Every land and house listed is physically inspected and legally verified by our team."
+        },
+        "guidance": {
+          "title": "Expert Guidance",
+          "desc": "Our agents are with you from the first viewing to the final deed transfer."
+        },
+        "rates": {
+          "title": "Market Best Rates",
+          "desc": "We negotiate firmly to ensure you get the best possible value for your investment."
+        }
+      }
+    },
+    "cta": {
+      "heading": "Ready to find your dream property?",
+      "button": "Visit the latest ads"
+    }
+  },
+  "listings": {
+    "featured": "Featured Lands",
+    "recent": "Recently added properties for sale",
+    "polhena": "Polhena Beachside",
+    "matara": "Matara",
+    "polhenaDesc": "Walking distance to the beach. Perfect for a holiday home or villa project. Clear deeds.",
+    "nupe": "Nupe Junction",
+    "nupeDesc": "Highly commercial area facing the main road. Ideal for a shop or office building.",
+    "kambu": "Kamburugamuwa",
+    "kambuDesc": "Quiet residential environment. 5 mins to Godagama highway exit. Electricity & water available.",
+    "viewDetails": "View Details",
+    "cardAlt": "Land for sale",
+    "polhenaLocation": "Matara",
+    "polhenaSize": "10 Perches",
+    "polhenaPrice": "LKR 1.5 Mn / perch",
+    "nupeLocation": "Nupe, Matara",
+    "nupeSize": "15 Perches",
+    "nupePrice": "LKR 2.2 Mn / perch",
+    "kambuLocation": "Matara",
+    "kambuSize": "20 Perches",
+    "kambuPrice": "LKR 850,000 / perch"
+  },
+  "footer": {
+    "brand": "LandSaleMatara",
+    "tagline": "Your trusted partner in finding the perfect land, house, or apartment in Sri Lanka. We make real estate simple, transparent, and secure.",
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "about": "About Us",
+    "contactAgents": "Contact Agents",
+    "properties": "Properties",
+    "landForSale": "Land for Sale",
+    "housesForSale": "Houses for Sale",
+    "apartmentsForRent": "Apartments for Rent",
+    "contactUs": "Contact Us",
+    "address": "No. 123, Galle Road, Matara, Sri Lanka",
+    "phoneNumber": "+94 11 234 5678",
+    "emailAddress": "hello@landsalematara.lk",
+    "copyright": "LandSaleMatara.lk. All rights reserved."
+  }
+}
