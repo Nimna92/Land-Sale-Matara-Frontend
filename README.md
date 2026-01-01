@@ -1,41 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Overview
+The frontend of the PropertySale marketplace is built using Next.js 14 (App Router), ensuring a server-first approach for optimal performance and SEO. The UI is constructed with a component-driven architecture using React and TypeScript, styled efficiently with Tailwind CSS.
 
-## Getting Started
+The application focuses on a seamless user experience, featuring dynamic routing for different property types, sophisticated client-side filtering, and a conditional logic-based submission system.
 
-First, run the development server:
+🛠 Tech Stack
+Framework: Next.js 14 (App Router)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Language: TypeScript (Strict Mode)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Styling: Tailwind CSS
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Icons: Lucide React
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Font: Inter (via next/font)
 
-## Learn More
+State Management: React Hooks (useState, useEffect)
 
-To learn more about Next.js, take a look at the following resources:
+📂 Project Structure (App Router)
+The project follows the standard Next.js 14 file-system routing conventions:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+app/
+├── apartment/         # Route: /apartment (Apartment Listings)
+│   └── page.tsx
+├── houses/            # Route: /houses (House Listings)
+│   └── page.tsx
+├── land/              # Route: /land (Land Listings)
+│   └── page.tsx
+├── about/             # Route: /about (Company Info & Stats)
+│   └── page.tsx
+├── api/               # Serverless API Routes
+├── layout.tsx         # Root Layout (Navbar, Footer, Font config)
+└── page.tsx           # Homepage (Hero section, Featured categories)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-
-## Notes
-
-- This project is currently frontend-only; there is no backend or API wired up.
-- The Post Ad modal is a UI demo and does not persist data.
